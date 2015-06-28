@@ -1,0 +1,25 @@
+{
+  "name": "gos-websocket",
+  "description": "Pure javascript websocket (WAMP) client",
+  "main": "dist/websocket.js",
+  "homepage": "https://github.com/GeniusesOfSymfony/WebsocketJsClient",
+  "license": "MIT",
+  "authors": [
+    "Johann Saunier <johann_27@hotmail.fr>"
+  ],
+  "keywords": [
+    "jquery",
+    "websocket",
+    "wamp"
+  ],
+  "_release": "4a1e3ba21c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4a1e3ba21cba6d0b5436e7292f448465afbd587e"
+  },
+  "_source": "git://github.com/GeniusesOfSymfony/WebsocketAngularJsClient.git",
+  "_target": "*",
+  "_originalSource": "gos-websocket-client-angular",
+  "_direct": true
+}
